@@ -1,1 +1,1 @@
-Ecommerce Website Using HTML CSS JAVASCRIPT
+Ecommerce Website Using HTML, CSS, JAVASCRIPT
